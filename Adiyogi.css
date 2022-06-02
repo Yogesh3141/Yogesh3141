@@ -1,0 +1,256 @@
+* {
+    margin: 0px !important;
+    padding: 0px !important;
+    box-sizing: border-box !important;
+}
+
+.mail {
+    text-decoration: none;
+    color: black;
+    font-size: small;
+}
+
+.nav {
+    margin-left: 25px !important;
+    color: white !important;
+    font-size: medium !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+.icon {
+    padding-left: 20px !important;
+    color: white !important;
+}
+
+.btn1 {
+    background-image: linear-gradient(220deg, #f27c1e 0%, #dd4c23 79%) !important;
+    padding: 14px 40px 14px 40px !important;
+    border-radius: 30px 30px 30px 30px !important;
+    color: white;
+}
+
+.bground {
+    opacity: 1.8 !important;
+    background: rgb(76, 76, 233)
+}
+
+.carousel-control {
+    height: 530px !important;
+    overflow: hidden !important;
+}
+
+.section-ab {
+    padding-left: 100px !important;
+    padding-top: 150px !important;
+    text-decoration: underline;
+    text-decoration-color: #dd4c23;
+}
+
+.section-wo {
+    padding-left: 50px !important;
+    padding-top: 20px !important;
+}
+
+.client {
+    font-size: 45px;
+    font-weight: 700;
+    color: #dd4c23;
+    padding-left: 50px !important;
+}
+
+.project {
+    color: #03228F !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+    padding-left: 50px !important;
+}
+
+.box {
+    background-color: #FFFFFF;
+    border-radius: 10px 10px 10px 10px !important;
+    position: relative !important;
+    text-align: left;
+    box-sizing: border-box !important;
+}
+
+.img1 {
+    height: 70px !important;
+    width: 70px !;
+}
+
+.box:hover {
+    background-color: #FD660A !important;
+}
+
+.box:hover p {
+    color: white;
+}
+
+.box:hover .img-hover {
+    display: none;
+}
+
+.box2 {
+    background-color: #FFFFFF;
+    border-radius: 10px 10px 10px 10px !important;
+    position: relative !important;
+    text-align: left;
+    box-sizing: border-box !important;
+    margin-top: 15px !important;
+    margin-left: 50px !important;
+}
+
+.box2:hover {
+    background-color: rgb(230, 199, 25) !important;
+}
+
+.box2:hover p {
+    color: white;
+}
+
+.box2:hover .img-hover2 {
+    display: none !important;
+}
+
+.box3 {
+    background-color: #FFFFFF;
+    border-radius: 10px 10px 10px 10px !important;
+    position: relative !important;
+    text-align: left;
+    box-sizing: border-box !important;
+    margin-top: 15px !important;
+    margin-left: 50px !important;
+}
+
+.box3:hover {
+    background-color: #62d8e3 !important;
+}
+
+.box3:hover p {
+    color: white;
+}
+
+.box3:hover .img-hover3 {
+    display: none !important;
+}
+
+.box4 {
+    background-color: #FFFFFF;
+    border-radius: 10px 10px 10px 10px !important;
+    position: relative !important;
+    text-align: left;
+    box-sizing: border-box !important;
+    margin-top: 15px !important;
+    margin-left: 50px !important;
+}
+
+.box4:hover {
+    background-color: #4542f5 !important;
+}
+
+.box4:hover p {
+    color: white;
+}
+
+.box4:hover .img-hover4 {
+    display: none;
+}
+
+.img-size {
+    height: 600px !important;
+    width: 600px !important;
+}
+
+.bgcolor {
+    background-color: #d3dae6 !important;
+}
+
+.img-web {
+    height: 70px !important;
+    width: 70px !important;
+}
+
+.box-web {
+    background-color: #FFFFFF !important;
+    border-radius: 10px 10px 10px 10px !important;
+    position: relative !important;
+}
+
+.box-web:hover {
+    background-color: #dd4c23 !important;
+}
+
+.box-web:hover p {
+    color: white;
+}
+
+.box-web:hover h5 {
+    color: white;
+}
+
+.box-web:hover .img1 {
+    display: none !important;
+}
+
+.box-mb {
+    background-color: #FFFFFF !important;
+    border-radius: 10px 10px 10px 10px !important;
+    position: relative !important;
+}
+
+.box-mb:hover {
+    background-color: #dd4c23 !important;
+}
+
+.box-mb:hover p {
+    color: white !important;
+}
+
+.box-mb:hover h5 {
+    color: white;
+}
+
+.box-mb:hover .img2 {
+    display: none !important;
+}
+
+.box-Ec {
+    background-color: #FFFFFF !important;
+    border-radius: 10px 10px 10px 10px !important;
+    position: relative !important;
+}
+
+.box-Ec:hover {
+    background-color: #dd4c23 !important;
+}
+
+.box-Ec:hover p {
+    color: white !important;
+}
+
+.box-Ec:hover h5 {
+    color: white;
+}
+
+.box-Ec:hover .img3 {
+    display: none !important;
+}
+
+.sl-1 {
+    font-family: fantasy !important;
+}
+
+.sl-1:hover {
+    color: blue;
+}
+
+.drop-down {
+    background-color: #FFFFFF !important;
+    border: 2px solid black !important;
+}
+
+.drop-down:hover{
+    background-color: rgb(38, 104, 226) !important;
+    color: rgb(229, 229, 236) !important;
+}
+
